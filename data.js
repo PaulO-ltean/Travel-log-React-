@@ -2,7 +2,7 @@ export default [
     {
         id: 1,
         img: {
-            src: "./images/histria.jpg",
+            src: "images/histria.jpg",
             alt: "City of Histria"
         },
         title: "Ancient City of Histria",
@@ -15,7 +15,7 @@ export default [
     {
         id: 2, 
         img: {
-            src: "./images/Deb-Haag.webp",
+            src: "images/Deb-Haag.webp",
             alt: "The Canals of Hague"
         },
         title: "The Hague(Den Haag)",
@@ -27,7 +27,7 @@ export default [
     {
         id: 3,
         img: {
-            src: "./images/Granada.jpg",
+            src: "images/Granada.jpg",
             alt: "Granada"
         },
         title: "Granada",

@@ -27,7 +27,7 @@ body {
     font-weight: 700;
 }
 header {
-    background: #F55A5A;
+    background: linear-gradient(to right,#2d4dff 5%, #736beb 60%,#403b85 );
     display: flex;
     justify-content: center;
     align-items: center;
