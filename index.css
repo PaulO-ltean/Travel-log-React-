@@ -12,9 +12,9 @@ body {
 
 #main_body
 {
-    width: 80%;
+    max-width: 80%;
     margin: 0 auto;
-    padding: 30px 40px;
+    padding: 0px 40px;
     border-left:2px solid #918e9b81;
     border-right:2px solid #918e9b81 ;
 
